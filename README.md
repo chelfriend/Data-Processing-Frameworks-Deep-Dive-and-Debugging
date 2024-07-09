@@ -1,8 +1,7 @@
 # Data-Processing-Frameworks-Deep-Dive-and-Debugging
 
-**#**Introduction
-
-**#**Overview of the project
+**Introduction
+**Overview of the project**
 Objectives
 Technologies used (Beam, DataFlow, Flink)
 Setup
